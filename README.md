@@ -23,4 +23,8 @@ solving LeetCode Problem from easy to hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
