@@ -26,5 +26,6 @@ solving LeetCode Problem from easy to hard
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
