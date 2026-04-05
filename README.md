@@ -55,6 +55,7 @@ solving LeetCode Problem from easy to hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +69,8 @@ solving LeetCode Problem from easy to hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0148-sort-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/eyoba-max/LeetCode-Problem-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
